@@ -1,9 +1,9 @@
-👋 Hi, I’m Iza!
-🌱 I’m currently learning JavaScript!
-🎧 Listening to Lex Fridman Podcast - my fav!
-📖 Reading Culture Series by Iain Banks.
+<br>👋 Hi, I’m Iza!
+<br>🌱 I’m currently learning JavaScript!
+<br>🎧 Listening to Lex Fridman Podcast - my fav!
+<br>📖 Reading Culture Series by Iain Banks.
 
-📫 Feel free to message me >> izabellazawa@gmail.com
+<br>📫 Feel free to message me >> izabellazawa@gmail.com
 
 <!---
 IzabellaZawadzka/IzabellaZawadzka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
